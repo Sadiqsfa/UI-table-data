@@ -1,0 +1,17 @@
+#heading{
+color: antiquewhite;
+}
+.section1{
+    background-color: black;
+}
+.button{
+    background-color: black;
+    color: antiquewhite;
+    padding: 2px;
+}
+.table1{
+    border: 1px solid black;
+}
+.Section2{
+    padding-bottom: 10px;
+}
